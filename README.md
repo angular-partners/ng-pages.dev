@@ -1,2 +1,2 @@
-# ng-pages.dev
+# https://ng-pages.dev
 Hello world website
